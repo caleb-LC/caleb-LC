@@ -17,3 +17,5 @@ Lenguajes:
 -php (algo)
 -My SQL
 -Futuros lenguajes aun no aprendidos 
+
+PD: creatividad estancada de momento hasta nueva actualización 
