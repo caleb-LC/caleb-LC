@@ -2,20 +2,22 @@ PERFIL EN DESARROLLO SIGA BAJANDO  ![gato](https://github.com/user-attachments/a
 
 About me 😏
 
-Me llamo Caleb Lara Canaviri 
+Me llamo Caleb Lara Canaviri (SPIDERSEXUAL para los panas)
 
 Futuro Ingeniero de sistemas 🖥️
 
 Entusiasta de la tecnologia y la programación 👩‍💻
 
-##SI LO IMAGINASTE LO PUEDES PROGRAMAR AUNQUE SEA ALGO MALO 👀##
+##Habilidades 100% para desarrollar y 1000% para la malicia 👀##
 
 Lenguajes:
 
 -java 
 -Python
--php (algo)
+-php 
 -My SQL
+C++
+Larabel "Proximamente"
 -Futuros lenguajes aun no aprendidos 
 
 PD: creatividad estancada de momento hasta nueva actualización 
