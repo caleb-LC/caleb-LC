@@ -16,8 +16,8 @@ Lenguajes:
 -Python
 -php 
 -My SQL
-C++
-Larabel "Proximamente"
+-C++
+-Larabel "Proximamente"
 -Futuros lenguajes aun no aprendidos 
 
 PD: creatividad estancada de momento hasta nueva actualización 
